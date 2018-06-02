@@ -1,1 +1,12 @@
 theme: jekyll-theme-time-machine
+# Site settings
+
+title: 像风一样自由
+SEOTitle: 像风一样自由的博客 | Keysaim Blog
+header-img: img/home-bg-hill.jpg
+email: 384669270@qq.com
+description: "描述"
+keyword: "像风一样自由, keysaim"
+url: "https://voctor9309.github.io"
+baseurl: ""
+...
